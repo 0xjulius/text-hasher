@@ -1,7 +1,7 @@
 import hashlib
 
 print(".:WELCOME-TO-MD5/SHA512/SHA256/SHA224/SHA1-HASHER:.")
-print(".::::::::::::::mAdE-bY-JuLiUS-AaLtO:::::::::::::::.")
+print(".::::::::::::::mAdE-bY-julmezhaaaaa:::::::::::::::.")
 
 while True:
     strHash = input("Anna sana: ")
